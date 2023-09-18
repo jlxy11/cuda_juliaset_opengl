@@ -7,3 +7,6 @@ A small program written during the process of learning CUDA to calculate juliase
 
 ![image](https://github.com/jlxy11/cuda_juliaset_opengl/blob/master/img/006.png)
 
+
+# DEMO at bilibili
+https://www.bilibili.com/video/BV1ek4y1F7ji/?vd_source=eef17bf97d23c01dd7cd4350984596e7
