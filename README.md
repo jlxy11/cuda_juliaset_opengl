@@ -5,5 +5,5 @@ A small program written during the process of learning CUDA to calculate juliase
 
 # img
 
-![image](https://github.com/jlxy11/cuda_juliaset_opengl/blob/master/img/001.png)
+//![image](https://github.com/jlxy11/cuda_juliaset_opengl/blob/master/img/001.png)
 
